@@ -26,7 +26,7 @@
   </div>
   <div>
     <p>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=szimicode&" alt="szimicode" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=szimicode&" alt="szimicode" width="50%"/>
     </p>
   </div>
 </div>
