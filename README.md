@@ -12,18 +12,6 @@
 <div style="display: flex; align-items: center; justify-content: flex-start;">
   <div style="margin-right: 20px;">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=szimicode&" alt="szimicode" width="50%" />
-    <h3>Connect with me:</h3>
-    <p>
-      <a href="https://linkedin.com/in/szymon molitorys" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="szymon molitorys" height="30" width="40" />
-      </a>
-      <a href="https://fb.com/szymon molitorys" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="szymon molitorys" height="30" width="40" />
-      </a>
-      <a href="https://discord.gg/szimicode" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="szimicode" height="30" width="40" />
-      </a> 
-    </p>
     
   </div>
  
