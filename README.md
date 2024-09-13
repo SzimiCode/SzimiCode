@@ -35,5 +35,7 @@
     🐉 Dungeons & Dragons • Skiing • Plants
 </pre>
 <br><br>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=szimicode&" alt="szimicode" /></p>
+  <br>
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 </div>
