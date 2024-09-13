@@ -11,7 +11,7 @@
 </pre>
 <div style="display: flex; align-items: center; justify-content: flex-start;">
   <div style="margin-right: 20px;">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=szimicode&" alt="szimicode" width="40%" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=szimicode&" alt="szimicode" width="70%" />
     <h3>Connect with me:</h3>
     <p>
       <a href="https://linkedin.com/in/szymon molitorys" target="_blank">
