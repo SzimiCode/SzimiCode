@@ -22,3 +22,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=szimicode&show_icons=true&locale=en" alt="szimicode" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=szimicode&" alt="szimicode" /></p>
+
+
+<div align="center">
+</div>
