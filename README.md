@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Welcome</h1>
+  <h1>Hey! I'm Szymon Molitorys</h1>
   <img src="https://i.pinimg.com/736x/a6/eb/91/a6eb9133544876fd9eb59ec4ee266696.jpg" width="25%" align="right"/>
   <br><br>
 <pre>
